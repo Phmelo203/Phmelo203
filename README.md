@@ -4,7 +4,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por programa
 Tenho experiência com Python, HTML, CSS, SQL, React, JavaScript
 Estou ansioso para construir conexões com profissionais da área. Se você tem alguma dica ou conhece alguma oportunidade, adoraria conversar!
 
-[![perfil.linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-melo-0a8134239/)
+[![perfil.linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phmelosilv/))
 [![perfil.github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Phmelo203)
 [![perfil.email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ph.melo20031974@gmail.com)
 [![perfil.Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581985373854)
